@@ -10,3 +10,6 @@ This repository is for educational purposes only.
 ## feature
 appicon
 > ![app icon .](https://gmbackend.pages.dev/appicon.jpg)
+malas nulis ntar aja
+
+## how to build

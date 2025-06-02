@@ -1,8 +1,9 @@
 # Colorful Stage!
 berbuat curang saat ujian itu tidak baik maka gunakan aplikasi ini kalau
---hp kalian root
---hp kalian oprekan (ubl dll)
---malas ama aplikasi geschool ori yg berad dan gabisa liat batre
+>
+hp kalian root
+hp kalian oprekan (ubl dll)
+malas ama aplikasi geschool ori yg berad dan gabisa liat batre
 ## Overview
 Colorfulstage! is a remake of the "Geschool Secure Mode" app ([Google Play Link](https://play.google.com/store/apps/details?id=net.geschool.app.secure&hl=en)). The goal of this project is to remove all the security and freedom features from the original app.
 > © ColorfulStage! is brand name by sega and colorfulpalete  (because i like game named project sekai hehe so i named colorfulstage)

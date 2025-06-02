@@ -8,5 +8,5 @@ Colorfulstage! is a remake of the "Geschool Secure Mode" app ([Google Play Link]
 This repository is for educational purposes only.
 
 ## feature
-> appicon
+appicon
 > ![app icon .](https://gmbackend.pages.dev/appicon.jpg)

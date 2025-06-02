@@ -2,7 +2,7 @@
   "expo": {
     "name": "COLORFUL STAGE!",
     "slug": "pjsekai",
-    "version": "1.26", //change version here just placeholder xixi
+    "version": "1.26", // change version here just placeholder xixi
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",

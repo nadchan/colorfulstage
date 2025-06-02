@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "COLORFUL STAGE!",
+    "slug": "pjsekai",
+    "version": "1.26", //change version here just placeholder xixi
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "scheme": "seb",
+    "extra": {
+      "deepLinkingSchemes": [
+        "seb",
+        "sebs",
+        "seb",
+        "sebs"
+      ],
+      "eas": {
+        "projectId": "29a0624c-f105-40d1-bd16-5064c138edbd"
+      }
+    },
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pjsekai"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "Nadchan"
+  }
+}

@@ -13,3 +13,23 @@ appicon
 ### malas nulis ntar aja
 
 ## how to build
+gitclone repo ini Salin file zip ini kedalam folder yang kamu akses, setelah itu masuk ke directory yang tadi digunakan atau yang ingin diakses, setelah itu pastikan kamu sudah memiliki alat ini :
+
+- Node.js (Versi 20 / keatas)
+- NPM / Yarn
+- Termux (Jika ingin menjalankan dihp)
+
+Buka folder project ini yang kamu taruh, lalu install dengan `npm i` atau `yarn`.
+
+Setelah semua ada, pertama tama kamu harus memiliki file / aplikasi original dari geschool, bisa unduh officalnya [di playstore]().
+
+Setelah itu buka tautan [seb://geschool-tryout-mod.tiiny.host/test/tryout.seb](seb://geschool-tryout-mod.tiiny.host/test/tryout.seb) yang akan langsung menuju ke aplikasi geschool, buka aplikasi originalnya, lalu tunggu hingga masuk ke aplikasi, jika sudah maka ada halaman untuk mendapatkan semua request header, ambil bagian user agent saja.
+
+Setelah itu buka file [App.js](./App.js) dan ubah bagian variable `geschoolVersionRequest` dan ubah yang ada, setelah semuanya normal, waktunya test menggunakan Expo Go.
+
+Jika semuanya sudah normal, coba build dengan
+
+```bash
+eas build --platform android --profile preview
+```
+

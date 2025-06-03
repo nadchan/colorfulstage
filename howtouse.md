@@ -30,6 +30,6 @@ done lalu masuk colorful stagenya
 <p align="center">
     <img src="https://gmbackend.pages.dev/gettoken.png" alt="Description" width="1920">
 </p>
-setelah dapet token lanjut step berikutnya 
+- setelah dapet token lanjut step berikutnya 
 - lanjut nanti malas nulis saya
 

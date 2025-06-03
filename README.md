@@ -13,7 +13,7 @@ Colorfulstage! is a remake of the "Geschool Secure Mode" app ([Google Play Link]
 This repository is for educational purposes only.
 
 ## how to use 
-[Github](https://github.com/nadchan/colorfulstage/blob/main/howtouse.md) klik disini untuk cara memakainya (males nulis anjer).
+[tutorial make](https://github.com/nadchan/colorfulstage/blob/main/howtouse.md) klik disini untuk cara memakainya (males nulis anjer).
 
 ## feature
 appicon

@@ -1,4 +1,6 @@
 ## Colorful Stage!
+> [!WARNING]
+> AMAN DARI SYSTEM TIDAK AMAN DARI TUKANG CEPU HATI HATI.
 ## syarat
 pastikan hp mu android! dan menjalankan chrome webview versi 109 keatas atau tidak fungsi
 ## sebelum kamu memulai

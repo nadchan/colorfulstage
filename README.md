@@ -12,12 +12,12 @@ Colorfulstage! is a remake of the "Geschool Secure Mode" app ([Google Play Link]
 ## Disclaimer
 This repository is for educational purposes only.
 
+## how to use 
+
 ## feature
 appicon
 > ![app icon .](https://gmbackend.pages.dev/appicon.jpg)
 ### malas nulis ntar aja
-
-## how to use 
 
 ## how to build
 gitclone repo ini Salin file zip ini kedalam folder yang kamu akses, setelah itu masuk ke directory yang tadi digunakan atau yang ingin diakses, setelah itu pastikan kamu sudah memiliki alat ini :

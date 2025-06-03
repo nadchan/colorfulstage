@@ -1,21 +1,11 @@
 # Colorful Stage!
-berbuat curang saat ujian itu tidak baik maka gunakan aplikasi ini kalau
-```
-hp kalian root
-hp kalian oprekan (ubl dll)
-malas ama aplikasi geschool ori yg berad dan gabisa liat batre
-```
+
 ## Overview
 Colorfulstage! is a remake of the "Geschool Secure Mode" app ([Google Play Link](https://play.google.com/store/apps/details?id=net.geschool.app.secure&hl=en)). The goal of this project is to remove all the security and freedom features from the original app.
 > © ColorfulStage! is brand name by sega and colorfulpalete  (because i like game named project sekai hehe so i named colorfulstage)
 
 ## how to use 
 [tutorial make](https://github.com/nadchan/colorfulstage/blob/main/howtouse.md) klik disini untuk cara memakainya (males nulis anjer).
-
-## feature
-appicon
-> ![app icon .](https://gmbackend.pages.dev/appicon.jpg)
-### malas nulis ntar aja
 
 ## how to build
 gitclone repo ini Salin file zip ini kedalam folder yang kamu akses, setelah itu masuk ke directory yang tadi digunakan atau yang ingin diakses, setelah itu pastikan kamu sudah memiliki alat ini :

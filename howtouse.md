@@ -20,3 +20,4 @@ selesai
     <img src="https://gmbackend.pages.dev/select.png" alt="Description" width="460">
 </p>
 - 2. lalu klik yang colorful stage (hati hati salah klik)
+done lalu masuk colorful stagenya

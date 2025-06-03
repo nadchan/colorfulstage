@@ -12,5 +12,7 @@ selesai
 
 ## cara memakai colorfulstage (2 cara)
 > cara pertama (direct langsung)
-![[https://gmbackend.pages.dev/tryout.png|400]]
+<p align="center">
+    <img src="[assets/image.png](https://gmbackend.pages.dev/tryout.png)" alt="Description" width="300">
+</p>
 aaa

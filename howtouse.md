@@ -13,7 +13,7 @@ lalu di install
 selesai
 
 ## cara memakai colorfulstage (2 cara)
-cara pertama (direct langsung)
+## cara pertama (direct langsung)
 - 1. buka web geschool lalu klik start app (di aku udh berakhir ujiannya jdi gabisa praktekin hehe)
 <p align="center">
     <img src="https://gmbackend.pages.dev/tryout.png" alt="Description" width="250">
@@ -23,3 +23,11 @@ cara pertama (direct langsung)
     <img src="https://gmbackend.pages.dev/select.png" alt="Description" width="460">
 </p>
 done lalu masuk colorful stagenya
+(cara pertama ga work untuk semua hp kalau ga work pake cara kedua)
+
+## cara kedua (pakai geschool ltoken)
+- 1. pastikan kamu punya token geschool dengan cara berikut
+<p align="center">
+    <img src="https://gmbackend.pages.dev/gettoken.png" alt="Description" width="1920">
+</p>
+done 

@@ -13,6 +13,6 @@ selesai
 ## cara memakai colorfulstage (2 cara)
 > cara pertama (direct langsung)
 <p align="center">
-    <img src="https://gmbackend.pages.dev/tryout.png" alt="Description" width="300">
+    <img src="https://gmbackend.pages.dev/tryout.png" alt="Description" width="250">
 </p>
-aaa
+buka web geschool lalu klik start app (di aku udh berakhir ujiannya jdi gabisa praktekin hehe)

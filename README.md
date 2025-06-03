@@ -9,9 +9,6 @@ malas ama aplikasi geschool ori yg berad dan gabisa liat batre
 Colorfulstage! is a remake of the "Geschool Secure Mode" app ([Google Play Link](https://play.google.com/store/apps/details?id=net.geschool.app.secure&hl=en)). The goal of this project is to remove all the security and freedom features from the original app.
 > © ColorfulStage! is brand name by sega and colorfulpalete  (because i like game named project sekai hehe so i named colorfulstage)
 
-## Disclaimer
-This repository is for educational purposes only.
-
 ## how to use 
 [tutorial make](https://github.com/nadchan/colorfulstage/blob/main/howtouse.md) klik disini untuk cara memakainya (males nulis anjer).
 
@@ -41,3 +38,5 @@ Jika semuanya sudah normal, coba build dengan
 eas build --platform android --profile preview
 ```
 
+## Disclaimer
+This repository is for educational purposes only.

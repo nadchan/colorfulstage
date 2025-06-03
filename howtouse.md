@@ -12,5 +12,5 @@ selesai
 
 ## cara memakai colorfulstage (2 cara)
 > cara pertama (direct langsung)
-![a tryout](https://gmbackend.pages.dev/tryout.png)
+![a tryout](https://gmbackend.pages.dev/tryout.png =250x250)
 aaa

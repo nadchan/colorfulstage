@@ -13,13 +13,13 @@ lalu di install
 selesai
 
 ## cara memakai colorfulstage (2 cara)
-> cara pertama (direct langsung)
+cara pertama (direct langsung)
+- 1. buka web geschool lalu klik start app (di aku udh berakhir ujiannya jdi gabisa praktekin hehe)
 <p align="center">
     <img src="https://gmbackend.pages.dev/tryout.png" alt="Description" width="250">
 </p>
-- 1. buka web geschool lalu klik start app (di aku udh berakhir ujiannya jdi gabisa praktekin hehe)
+- 2. lalu klik yang colorful stage (hati hati salah klik)
 <p align="center">
     <img src="https://gmbackend.pages.dev/select.png" alt="Description" width="460">
 </p>
-- 2. lalu klik yang colorful stage (hati hati salah klik)
 done lalu masuk colorful stagenya

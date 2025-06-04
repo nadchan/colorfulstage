@@ -1,5 +1,11 @@
 # Colorful Stage! 1.27 release yeay!
-untuk build release nanti aja sementara bisa build sendiri make expo atau make vm ([geschool vm](https://github.com/nadchan/geschool-hek-native))
+bahasa keren nya ini geschool mod
+- bisa float apps
+- liat notif
+- buka tiktok
+- screenshoot
+- liat harga kripto
+- dan masih banyak lgi
 ## Introduction
 Colorfulstage! is a remake of the "Geschool Secure Mode" app ([Google Play Link](https://play.google.com/store/apps/details?id=net.geschool.app.secure&hl=en)). The goal of this project is to remove all the security and freedom features from the original app.
 > © ColorfulStage! is brand name by sega and colorfulpalete  (because i like game named project sekai hehe so i named colorfulstage)

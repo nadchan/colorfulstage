@@ -9,7 +9,7 @@ import axios from "axios"
 import seb_parser from "./lib/seb-parser"
 
 const { height, width } = Dimensions.get("window")
-const geschoolVersionRequest = "1.27" // change ur geschool version here 
+const geschoolVersionRequest = "1.27" //  change ur geschool version here 
 
 const userAgent = {
   dalvik: `Dalvik/2.1.0 (Linux; U; Android ${Device.osVersion}; ${Device.modelName} Build/${Device.osInternalBuildId})`,

@@ -6,7 +6,7 @@ bahasa keren nya ini geschool mod
 - screenshoot
 - liat harga kripto
 - dan masih banyak lgi
-ini contoh screenshot dengan ngebuka app phantom dan chrome
+> ini contoh screenshot dengan ngebuka app phantom dan chrome
 <p align="left">
     <img src="float.jpg" alt="Description" width="240">
 </p>
